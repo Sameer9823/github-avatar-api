@@ -1,0 +1,23 @@
+.app{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30rem;
+
+}
+.heading{
+  text-align: center;
+}
+.input{
+  width: 15rem;
+  height:  2rem;
+  margin: 2rem;
+
+}
+
+.img-1{
+  width: 300px;
+  border-radius: 50%;
+}
