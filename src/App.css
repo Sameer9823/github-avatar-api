@@ -2,9 +2,18 @@
   text-align: center;
   display: flex;
   flex-direction: column;
+  height: 600px;
   justify-content: center;
   align-items: center;
   margin-left: 30rem;
+  backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      min-height: 250px;
+      width: 450px;
+      border-radius: 1rem;
+      background: rgb(255, 255, 255, 0.3);
+      padding: 1.5rem;
+      color: #fff;
 
 }
 .heading{
